@@ -4,13 +4,5 @@ using UnityEngine;
 
 public class Controller : MonoBehaviour {
 
-    public GameObject Items;
-    
-	void Start () {
-		
-	}
-	
-	void Update () {
-		
-	}
+     
 }
